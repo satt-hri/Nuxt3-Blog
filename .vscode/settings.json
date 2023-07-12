@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.css": ""
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+      }
+}
